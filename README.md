@@ -20,7 +20,7 @@ The primary objectives of this analysis are:
 
 ### Dataset
 
-The dataset used is `AccidentLondonBoroughs2223.csv`, sourced from the module course Moodle. It contains detailed records of road traffic accidents across London boroughs, featuring:
+The dataset used is `AccidentLondonBoroughs2223.csv`. It contains detailed records of road traffic accidents across London boroughs, featuring:
 
 - Date and time of accident
 - Location details
@@ -28,6 +28,7 @@ The dataset used is `AccidentLondonBoroughs2223.csv`, sourced from the module co
 - Weather conditions
 - Road conditions
 - Additional relevant attributes
+- More ....
 
 This comprehensive dataset enables robust analysis to support evidence-based decision-making for improving road safety.
 
